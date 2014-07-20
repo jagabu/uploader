@@ -1,0 +1,4 @@
+*.class
+*.jar
+nbactions.xml
+target/**
